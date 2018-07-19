@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">buttons</string>
+    <string-array name="subject">
+        <item>c language</item>
+    <item>c++</item>
+    <item>java</item>
+    <item>python</item>
+    <item>dotnet</item>
+    </string-array>
+</resources>
